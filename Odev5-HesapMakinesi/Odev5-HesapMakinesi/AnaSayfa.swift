@@ -15,7 +15,7 @@ struct ContentView: View {
             
             Spacer()
             
-            // Örnek buton satırları2
+            // Örnek buton satırları2w
             CalculatorButtonRow(buttons: ["7", "8", "9", "+"], action: buttonTap)
             CalculatorButtonRow(buttons: ["4", "5", "6", "-"], action: buttonTap)
             CalculatorButtonRow(buttons: ["1", "2", "3", "*"], action: buttonTap)
