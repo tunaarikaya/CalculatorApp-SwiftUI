@@ -13,7 +13,7 @@ struct ContentView: View {
                 .frame(maxWidth: .infinity, alignment: .trailing)
                 .padding()
             
-            //1w
+            //1ws
             CalculatorButtonRow(buttons: ["7", "8", "9", "+"], action: buttonTap)
             CalculatorButtonRow(buttons: ["4", "5", "6", "-"], action: buttonTap)
             CalculatorButtonRow(buttons: ["1", "2", "3", "*"], action: buttonTap)
