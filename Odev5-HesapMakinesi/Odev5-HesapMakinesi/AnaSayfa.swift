@@ -5,7 +5,7 @@ struct ContentView: View {
     @State private var currentInput = ""
     @State private var storedValue: Double? = 0.0
     @State private var currentOperator: String?
-    //23A
+    //23A123123
     
     var body: some View {
         VStack {
