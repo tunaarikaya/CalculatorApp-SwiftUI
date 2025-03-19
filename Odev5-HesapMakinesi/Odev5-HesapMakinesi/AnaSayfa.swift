@@ -5,7 +5,7 @@ struct ContentView: View {
     @State private var currentInput = ""
     @State private var storedValue: Double? = 0.0
     @State private var currentOperator: String?
-    //2sskjv
+ 
     
     var body: some View {
         VStack {
@@ -14,7 +14,7 @@ struct ContentView: View {
                 .frame(maxWidth: .infinity, alignment: .trailing)
                 .padding()
             
-            //1aa
+        
             CalculatorButtonRow(buttons: ["7", "8", "9", "+"], action: buttonTap)
             CalculatorButtonRow(buttons: ["4", "5", "6", "-"], action: buttonTap)
             CalculatorButtonRow(buttons: ["1", "2", "3", "*"], action: buttonTap)
