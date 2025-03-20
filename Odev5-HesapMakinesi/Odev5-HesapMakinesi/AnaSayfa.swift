@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var displayText = "0"
+    @State private var displayText = ""
     @State private var currentInput = ""
     @State private var storedValue: Double? = 0.0
     @State private var currentOperator: String?
