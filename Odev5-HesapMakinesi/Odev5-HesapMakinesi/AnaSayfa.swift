@@ -5,6 +5,7 @@ struct ContentView: View {
     @State private var currentInput = ""
     @State private var storedValue: Double? = 0.0
     @State private var currentOperator: String?
+    //yry
  
     
     var body: some View {
