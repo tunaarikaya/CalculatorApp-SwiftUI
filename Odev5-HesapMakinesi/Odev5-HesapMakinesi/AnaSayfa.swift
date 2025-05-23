@@ -1,6 +1,6 @@
 import SwiftUI
 
-//41.
+//41
 struct ContentView: View {
     @State private var displayText = ""
     @State private var currentInput = ""
