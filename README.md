@@ -42,13 +42,7 @@ A sleek, modern, and highly functional calculator built with SwiftUI and MVVM ar
 2. Open `Odev5-HesapMakinesi.xcodeproj` in Xcode.
 3. Select your target device/simulator and press `Cmd + R` to run.
 
-## 📱 Screenshots
-
-| Modern UI | Smooth Logic |
-| :--- | :--- |
-| <img src="t1.png" width="250" alt="Main Screen"> | High-precision MVVM calculations |
-
-## 👨‍💻 Author
+## ‍💻 Author
 
 **Mehmet Tuna Arıkaya**
 
