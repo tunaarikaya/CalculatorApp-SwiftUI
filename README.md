@@ -2,7 +2,9 @@
 
 A sleek, modern, and highly functional calculator built with SwiftUI and MVVM architecture. Designed to feel premium with smooth animations, dynamic layouts, and a "Dark Mode" aesthetic inspired by professional iOS applications.
 
-![Simulator Screenshot](t1.png)
+<p align="center">
+  <img src="t1.png" width="300" alt="Simulator Screenshot">
+</p>
 
 ## ✨ Features
 
@@ -44,7 +46,7 @@ A sleek, modern, and highly functional calculator built with SwiftUI and MVVM ar
 
 | Modern UI | Smooth Logic |
 | :--- | :--- |
-| ![Main Screen](t1.png) | High-precision MVVM calculations |
+| <img src="t1.png" width="250" alt="Main Screen"> | High-precision MVVM calculations |
 
 ## 👨‍💻 Author
 
