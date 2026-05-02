@@ -1,4 +1,4 @@
-# 🧮 Premium SwiftUI Calculator
+# 🧮 SwiftUI Calculator
 
 A sleek, modern, and highly functional calculator built with SwiftUI and MVVM architecture. Designed to feel premium with smooth animations, dynamic layouts, and a "Dark Mode" aesthetic inspired by professional iOS applications.
 
